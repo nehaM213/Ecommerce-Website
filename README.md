@@ -9,4 +9,4 @@ The E-commerce demo can be [viewed online here](https://cozy-centaur-7b8d2a.netl
 ## Tech Stack
 * HTML
 * CSS
-*Javascript
+* Javascript
